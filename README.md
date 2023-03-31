@@ -1,7 +1,7 @@
 # Ignacio Joaquín Riolffi
 - Legajo: 209.162-8
 
-![foto mia para github](foto_git.jpg)
+![foto mia para github](foto_git.png)
 
 ### Algunas cosas de mi:
 
