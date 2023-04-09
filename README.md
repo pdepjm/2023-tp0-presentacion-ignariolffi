@@ -9,6 +9,6 @@
 - Estoy cursando mi segundo año de facultad
 - Me gusta ver series y peliculas (GOT mi serie favorita por lejos)
 - Me encanta la pasta 
-- Aveces leo libros
+- A veces leo libros
 - Me encantan los juegos de estrategia y Simulacion (como los sims, stardew valley o AOE III)
 - Despues de unas horas pude instalar el Haskell!!
